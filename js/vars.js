@@ -1,0 +1,12 @@
+var jsonObject = {
+                   "items": [
+                     {
+                       "fname": "rafael",
+                       "lname": "marques",
+                       "age": "19"},
+                     {
+                       "fname": "daniel",
+                       "lname": "marques",
+                       "age": "19"
+                     }]
+                 };
