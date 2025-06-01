@@ -3,6 +3,7 @@
 <head>
 	<title>Alex</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link href="images/favicon.ico" rel="icon" type="image/x-icon">
 	<link rel="stylesheet" href="css/styles.css">
 	<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js"></script>
 	<script src="js/vars.js"></script>
