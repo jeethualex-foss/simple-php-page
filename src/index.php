@@ -82,7 +82,7 @@
 							<h2>Dolor sit amet</h2>
 							<h3>Integer vel semper amet</h3>
 
-							<p><?php echo date('l \t\h\e jS'); ?> lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor mattis vehicula. Fusce at aliquet lectus. Integer vel semper turpis. Fusce elementum tincidunt est, id blandit massa cursus at. Donec eu risus lectus. Nam posuere mauris tellus, ut rutrum tellus finibus eget. Duis ipsum tortor, condimentum quis nunc et, cursus vestibulum turpis. Praesent non sapien massa. Praesent ut vulputate sapien. Integer dictum ut sapien in tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							<p><?php echo date('l \t\h\e jS'); ?>... lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor mattis vehicula. Fusce at aliquet lectus. Integer vel semper turpis. Fusce elementum tincidunt est, id blandit massa cursus at. Donec eu risus lectus. Nam posuere mauris tellus, ut rutrum tellus finibus eget. Duis ipsum tortor, condimentum quis nunc et, cursus vestibulum turpis. Praesent non sapien massa. Praesent ut vulputate sapien. Integer dictum ut sapien in tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
 							<p>Cras eu nunc porta, congue dui sit amet, feugiat ante. Nunc mattis congue rutrum. In condimentum felis cursus, ultrices ante id, sollicitudin tortor. Quisque sagittis lacus eu bibendum molestie. Nulla scelerisque ex nibh, sed fringilla tortor laoreet eget. Nullam vehicula nulla enim, semper efficitur libero fringilla non. Nunc quis aliquam turpis. Sed sit amet dolor in eros mollis scelerisque. Suspendisse ac mauris enim. Donec vitae convallis diam.</p>
 
